@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/Juli55/tradetracker-crawler#readme",
   "dependencies": {
+    "detect-character-encoding": "^0.8.0",
+    "moment": "^2.29.1",
+    "momentjs": "^2.0.0",
     "puppeteer": "^5.5.0"
   }
 }
